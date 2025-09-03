@@ -21,6 +21,4 @@ File
 
 indian_people_data.xlsx → The Excel file containing the sales dashboard and raw data.
 https://github.com/rajatiwaritiwari89530-alt/sales-data-dashboard/blob/main/Screenshot%202025-09-03%20000209.png
-"C:\Users\Lenovo\Pictures\Screenshots\Screenshot 2025-09-03 000209.png"
-Screenshot 2025-09-03 000209.png
 
