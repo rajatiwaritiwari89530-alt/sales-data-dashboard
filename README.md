@@ -20,3 +20,4 @@ Since it was created in Excel 2010, the design is simple, but it is very special
 File
 
 indian_people_data.xlsx → The Excel file containing the sales dashboard and raw data.
+Screenshot 2025-09-03 000209.png
